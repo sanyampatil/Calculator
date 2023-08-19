@@ -1,0 +1,37 @@
+.text-center{
+    text-align: center;
+
+}
+.bg-blue{
+    background-color: rgba(232, 252, 252, 0.144);
+    border-radius: 5%;
+}
+.mx-auto
+{
+    margin: auto;
+}
+.flex{
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.numbtn-bg-color{
+    /* background-color: #c9f0fab0; */
+    background-color: #92ddf051;
+    font-weight: 700;
+    /* font-size:17px ; */
+    /* margin-bottom: 12px; */
+    cursor: pointer;
+
+}
+.Arith-tbn-bg-color{
+    background-color: #41c1e17a;;font-weight: 700;
+    /* font-size:17px ; */
+    cursor: pointer;
+
+}
